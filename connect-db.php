@@ -2,7 +2,7 @@
 
 $server = "vaportrail.asoshared.com";
 $user = "workmans_Jason";
-$pass = "Smith&Wesson";
+$pass = "Password";
 $db = "workmans_offices";
 
 $mysqli = new mysqli($server, $user, $pass, $db);
